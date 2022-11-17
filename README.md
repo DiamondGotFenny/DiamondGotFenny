@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @diamondcn923
-- 👀 I’m interested in javascript, c# and web development
-- 🌱 I’m currently learning next.js, node.js, .net core. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me diamondcn923@hotmail.com
+- 👋 Hi, I’m @diamondcn923, I'm a front-end developer. rich experiences in Reactjs/next.js. 
+- 👀 I’m interested in javascript, typescript, c# and web3
+- 🌱 I’m currently learning node.js, .net 6. 
+- 📫 How to reach me? please send email to diamondcn923@gmail.com
 
 <!---
 DiamondGotFenny/DiamondGotFenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
